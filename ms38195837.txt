@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "vworp.net",
+  "Id": "dd1130a5-995c-4069-8847-cd99a469de8d"
+}
